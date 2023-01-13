@@ -7,4 +7,4 @@
 
 # For using TensorBoard in pytorch:
 - Install TensorBoard: pip install tensorboard
-- Run tTensorBoard: tensorboard --logdir=run
+- Run TensorBoard: tensorboard --logdir=run

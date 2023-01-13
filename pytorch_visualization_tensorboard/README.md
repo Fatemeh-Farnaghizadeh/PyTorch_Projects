@@ -3,4 +3,7 @@ TensorBoard provides the visualization and tooling needed for machine learning e
 - Visualizing the model graph (ops and layers)</br>
 - Viewing histograms of weights, biases, or other tensors as they change over time</br>
 - Projecting embeddings to a lower dimensional space</br>
-- Displaying images, text, and audio data</br>
+- Displaying images, text, and audio data</br></br>
+For using TensorBoard in pytorch:
+- Install TensorBoard: pip install tensorboard
+- Run tTensorBoard: tensorboard --logdir=run

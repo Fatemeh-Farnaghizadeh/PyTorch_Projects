@@ -1,2 +1,2 @@
-In this notebook we will learn how to train U_Net architecture for semantic image segmentation. <\br>
-The used dataset is available from this link.
+In this notebook we will learn how to train U_Net architecture for semantic image segmentation. <br/>
+The used dataset is available from [this]{https://www.robots.ox.ac.uk/~vgg/data/pets/} link.
